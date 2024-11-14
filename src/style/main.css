@@ -23,7 +23,7 @@ span{
     text-transform: uppercase;
 }
 
-#contra-violencia{
+#leis{
     padding: 5rem;
     margin-left: 3rem;
     margin-top: 3em;
@@ -32,12 +32,12 @@ span{
     height: 55rem;
 }
 
-#contra-violencia h3{
+#leis h3{
     font-size: 3rem;
     margin-bottom: 20px;
 }
 
-#contra-violencia p{
+#leis p{
     padding: 10px;
     border-style: solid;
     border-width: 0.01px;
