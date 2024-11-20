@@ -27,14 +27,15 @@ span{
     padding: 5rem;
     margin-left: 3rem;
     margin-top: 3em;
-    background-color: antiquewhite;
+    background-color: #faebd7;
     width: 70%;
     height: 55rem;
 }
 
 #leis h3{
     font-size: 3rem;
-    margin-bottom: 20px;
+    margin-bottom: 20px;padding: 0;
+    margin: 0;
 }
 
 #leis p{
@@ -42,8 +43,11 @@ span{
     border-style: solid;
     border-width: 0.01px;
     margin-bottom: 2rem;
+    font-size: 1.5em;
 }
-
+#Leis a{
+    
+}
 #identificar-sinais{
     margin-top: 3rem;
 }
